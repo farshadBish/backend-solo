@@ -1,13 +1,1 @@
-[
-  {
-    "name": "hello",
-    "description": "somthing longer",
-    "brand": "nokia",
-    "imageUrl": "https://drop.ndtv.com/TECH/product_database/images/2152017124957PM_635_nokia_3310.jpeg?downsize=*:420&output-quality=80",
-    "price": 100,
-    "category": "smartphones",
-    "createdAt": "2022-07-22T10:55:38.088Z",
-    "updatedAt": "2022-07-22T10:57:50.229Z",
-    "_id": "38l14sqiw0l5wcjg4p"
-  }
-]
+[{"name":"hello","description":"somthing longer","brand":"nokia","imageUrl":"https://drop.ndtv.com/TECH/product_database/images/2152017124957PM_635_nokia_3310.jpeg?downsize=*:420&output-quality=80","price":100,"category":"smartphones","createdAt":"2022-07-22T10:55:38.088Z","updatedAt":"2022-07-22T10:57:50.229Z","_id":"38l14sqiw0l5wcjg4p"},{"name":"dadadas","createdAt":"2022-07-22T15:11:31.995Z","updatedAt":"2022-07-22T15:11:31.995Z","_id":"38l14sq8k8l5wloja4"},{"description":"DASDASDA","brand":"nokia","price":"100","createdAt":"2022-07-22T15:12:23.786Z","updatedAt":"2022-07-22T15:12:23.786Z","_id":"38l14sq8k8l5wlpn8q"}]
